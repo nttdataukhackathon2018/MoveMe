@@ -11,17 +11,20 @@ We will help you:
 •	check availability of the agents and book viewings automatically
  
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536933360-moveme-circle.png) 
+![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938384-picture1.jpg) 
+
 Let us know what you are looking for. 
 Do not worry if you are not inspired, we will help you make up your mind! 
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536933360-moveme-circle.png) 
-The more you provide feedback, the better our suggestions will be!
+![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938432-picture3.jpg) 
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536933360-moveme-circle.png) 
+more you provide feedback, the better our suggestions will be!
+
+![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938426-picture2.jpg) 
+
 Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 
-Chat with us
+Chat with MoveMe!
 
 
 ## Welcome to the Move Me community!

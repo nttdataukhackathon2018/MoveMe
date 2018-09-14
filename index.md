@@ -11,7 +11,7 @@ We will help you:
 •	check availability of the agents and book viewings automatically
  
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938384-picture1.jpg) 
+![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938993-picture1.jpg) 
 
 Let us know what you are looking for. 
 Do not worry if you are not inspired, we will help you make up your mind! 

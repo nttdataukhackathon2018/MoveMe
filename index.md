@@ -15,7 +15,7 @@
 
 ### Let us know what you are looking for. Do not worry if you are not inspired, we will help you make up your mind! 
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg) 
+<p align="right">![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg)</p>
 
 <p align="right">### The more you provide feedback, the better our suggestions will be!</p>
 

@@ -1,6 +1,5 @@
 # Welcome to the MoveMe community!
 
-![Image](http://image.noelshack.com/fichiers/2018/37/5/1536933360-moveme-circle.png) 
 
 ## You are about to move and you want to enjoy a seamless and interactive experience? MoveMe helps you find the most relevant accommodation you are looking for. 
 

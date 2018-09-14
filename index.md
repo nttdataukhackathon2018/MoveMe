@@ -23,5 +23,5 @@
 ### Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 
 ### Chat with MoveMe!
-<iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 

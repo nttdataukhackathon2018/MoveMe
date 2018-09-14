@@ -21,7 +21,7 @@ The more you provide feedback, the better our suggestions will be!
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536933360-moveme-circle.png) 
 Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 
-
+Chat with us
 
 
 ## Welcome to the Move Me community!

@@ -18,7 +18,7 @@ Do not worry if you are not inspired, we will help you make up your mind!
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938432-picture3.jpg) 
 
-more you provide feedback, the better our suggestions will be!
+The more you provide feedback, the better our suggestions will be!
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536938426-picture2.jpg) 
 

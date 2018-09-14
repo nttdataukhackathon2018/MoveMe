@@ -17,7 +17,7 @@
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg) 
 
-### The more you provide feedback, the better our suggestions will be!
+<p align="right">### The more you provide feedback, the better our suggestions will be!</p>
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture2.jpg) 
 
@@ -25,10 +25,4 @@
 
 ### Chat with MoveMe!
 <iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>

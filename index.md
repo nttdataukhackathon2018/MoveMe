@@ -57,13 +57,7 @@ function carousel() {
 
 <iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
-twttr.widgets.createTimeline(
-  {
-    sourceType: "profile",
-    screenName: "MoveMe"
-  },
-  document.getElementById("container")
-);
+<a href="https://twitter.com/intent/tweet?button_hashtag=MoveMe&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #MoveMe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <img src="https://www.zoopla.co.uk/static/images/mashery/powered-by-zoopla-150x73.png" width="150" height="73" title="Property information powered by Zoopla" alt="Property information powered by Zoopla" border="0"> 
 

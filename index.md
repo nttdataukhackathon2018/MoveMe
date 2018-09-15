@@ -39,8 +39,6 @@ function carousel() {
 
 ### Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 
-### Chat with MoveMe!
-
 <!-- Start of BotEngine (www.botengine.ai) code -->
 <script type="text/javascript">
     window.__be = window.__be || {};

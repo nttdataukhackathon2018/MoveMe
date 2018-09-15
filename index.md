@@ -36,7 +36,7 @@ function carousel() {
 
 ### The more you provide feedback, the better our suggestions will be!
 
-![Image](Movemeheader.jpg) 
+![Image](Movemeheader.png) 
 
 ### Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 

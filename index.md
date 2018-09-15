@@ -29,7 +29,7 @@ function carousel() {
 ![Image](1.png) 
 
 
-![Image](Iphone2.jpg)
+![Image](2.png)
 
 ### The more you provide feedback, the better our suggestions will be!
 

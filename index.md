@@ -27,7 +27,7 @@
 <!-- Start of BotEngine (www.botengine.ai) code -->
 <script type="text/javascript">
     window.__be = window.__be || {};
-    window.__be.id = "5b9c0296ec4c0f00076a0e62";
+    window.__be.id = "5b9cc4f4ec4c0f00076a1b3f";
     (function() {
         var be = document.createElement('script'); be.type = 'text/javascript'; be.async = true;
         be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.botengine.ai/widget/plugin.js';
@@ -37,27 +37,18 @@
 <!-- End of BotEngine code -->
 
 
+
 <iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 <img src="https://www.zoopla.co.uk/static/images/mashery/powered-by-zoopla-150x73.png" width="150" height="73" title="Property information powered by Zoopla" alt="Property information powered by Zoopla" border="0"> 
 
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-<body>
-
 <h2 class="w3-center">Manual Slideshow</h2>
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="house.jpg" style="width:100%">
-  <img class="mySlides" src="emoji.jpg" style="width:100%">
-  <img class="mySlides" src="date.jpg" style="width:100%">
+  <img class="mySlides" src="House.jpg" style="width:100%">
+  <img class="mySlides" src="Emoji.jpg" style="width:100%">
+  <img class="mySlides" src="Date.jpg" style="width:100%">
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -83,6 +74,5 @@ function showDivs(n) {
 }
 </script>
 
-</body>
-</html>
+
 

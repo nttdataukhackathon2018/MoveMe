@@ -36,7 +36,7 @@ function carousel() {
 
 
 
-### Our clients speak for ur!
+### Our clients speak for us!
 
 ![Image](testimonials.png) 
 
@@ -51,10 +51,6 @@ function carousel() {
     })();
 </script>
 <!-- End of BotEngine code -->
-
-
-
-<iframe src="https://calendar.google.com/calendar/embed?title=My%20viewing%20calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%2300cccc&amp;src=nn.buisson%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 <a class="twitter-timeline" href="https://twitter.com/MoveMe18?ref_src=twsrc%5Etfw">Tweets by MoveMe18 style="border-width:0" width="600" height="400" frameborder="0"</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

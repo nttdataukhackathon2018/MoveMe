@@ -33,7 +33,7 @@ function carousel() {
 
 ### The more you provide feedback, the better our suggestions will be!
 
-![Image](Iphone3.jpg) 
+![Image](3.png) 
 
 ### Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 

@@ -1,6 +1,6 @@
 # Welcome to the MoveMe community!
 
-<h2 class="w3-center">Manual Slideshow</h2>
+
 
 <img class="mySlides" src="house.jpg">
 <img class="mySlides" src="emoji.jpg">

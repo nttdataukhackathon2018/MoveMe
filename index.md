@@ -1,8 +1,8 @@
 # Welcome to the MoveMe community!
 
-<img class="mySlides" src="img_snowtops.jpg">
-<img class="mySlides" src="img_lights.jpg">
-<img class="mySlides" src="img_mountains.jpg">
+<img class="mySlides" src="house.jpg">
+<img class="mySlides" src="emoji.jpg">
+<img class="mySlides" src="date.jpg">
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
 var slideIndex = 1;

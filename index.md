@@ -26,9 +26,8 @@ function carousel() {
 
 ## You are about to move and you want to enjoy a seamless and interactive experience? MoveMe helps you find the most relevant accommodation you are looking for. 
 
-![Image](Iphone1.jpg) 
+![Image](1.png) 
 
-### Let us know what you are looking for. Do not worry if you are not inspired, we will help you make up your mind! 
 
 ![Image](Iphone2.jpg)
 

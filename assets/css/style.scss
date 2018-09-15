@@ -10,10 +10,11 @@
     color: #445588;
 }
 
-@media screen and (max-width: 64em) and (min-width: 42em)
+@media screen and (max-width: 64em) and (min-width: 42em){
 .page-header {
     padding: 3rem 4rem;
     padding-top: 3rem;
     padding-right: 4rem;
     padding-left: 4rem;
+}
 }

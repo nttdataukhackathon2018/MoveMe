@@ -1,5 +1,5 @@
-# Welcome to the MoveMe community!
 
+## We help you to find your perfect property!
 <h2 class="w3-center"></h2>
 
 <div class="w3-content w3-display-container">

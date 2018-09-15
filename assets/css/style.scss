@@ -18,29 +18,9 @@
     padding-left: 4rem;
 }
 
-    element.style {
-    float: left;
-    height: 200px;
-    }
-img {
-    border: 0;
-    border-top-color: initial;
-    border-top-style: initial;
-    border-top-width: 100px;
-    border-right-color: initial;
-    border-right-style: initial;
-    border-right-width: 0px;
-    border-bottom-color: initial;
-    border-bottom-style: initial;
-    border-bottom-width: 0px;
-    border-left-color: initial;
-    border-left-style: initial;
-    border-left-width: 100px;
-    border-image-source: initial;
-    border-image-slice: initial;
-    border-image-width: initial;
-    border-image-outset: initial;
-    border-image-repeat: initial;
+
+.logo {
+    padding: 10px;
 }
 
 @media screen and (max-width: 64em) and (min-width: 42em){

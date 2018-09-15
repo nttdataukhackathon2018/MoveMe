@@ -1,7 +1,7 @@
 # Welcome to the MoveMe community!
 
 <h2 class="w3-center">Manual Slideshow</h2>
-<div class="w3-content w3-display-container">
+
 <img class="mySlides" src="house.jpg">
 <img class="mySlides" src="emoji.jpg">
 <img class="mySlides" src="date.jpg">
@@ -26,7 +26,6 @@ function showDivs(n) {
     }
     x[slideIndex-1].style.display = "block"; 
 }
-
 
 
 ## You are about to move and you want to enjoy a seamless and interactive experience? MoveMe helps you find the most relevant accommodation you are looking for. 

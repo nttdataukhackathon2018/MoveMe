@@ -17,7 +17,11 @@
     padding-right: 4rem;
     padding-left: 4rem;
 }
-}
+
+    element.style {
+    float: left;
+    height: 200px;
+    }
 img {
     border: 0;
     border-top-color: initial;
@@ -37,4 +41,12 @@ img {
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
+}
+
+@media screen and (max-width: 64em) and (min-width: 42em){
+.page-header {
+    color: #fff;
+    text-align: left;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
 }

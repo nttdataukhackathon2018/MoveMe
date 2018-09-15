@@ -1,5 +1,6 @@
 
 ## We help you to find your perfect property!
+## HI
 <h2 class="w3-center"></h2>
 
 <div class="w3-content w3-display-container">
@@ -33,7 +34,7 @@ function carousel() {
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg)</p>
 
-### The more you provide feedback, the better our suggestions will be!</p>
+### The more you provide feedback, the better our suggestions will be!
 
 ![Image](Movemeheader.jpg) 
 

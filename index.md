@@ -38,7 +38,7 @@ function carousel() {
 
 ### Do you want to book a viewing?  No problem! Share your availabilities we will contact you!
 
-### OUR CLIENTS SPEAK FOR US!
+### Our clients speak for ur!
 
 ![Image](testimonials.png) 
 

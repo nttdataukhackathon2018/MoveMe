@@ -1,10 +1,14 @@
 # Welcome to the MoveMe community!
 
+<h2 class="w3-center">Manual Slideshow</h2>
+<div class="w3-content w3-display-container">
 <img class="mySlides" src="house.jpg">
 <img class="mySlides" src="emoji.jpg">
 <img class="mySlides" src="date.jpg">
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+<script>
 var slideIndex = 1;
 showDivs(slideIndex);
 
@@ -38,9 +42,9 @@ function showDivs(n) {
 
 ### Let us know what you are looking for. Do not worry if you are not inspired, we will help you make up your mind! 
 
-<p align="right">![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg)</p>
+![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture3.jpg)</p>
 
-<p align="right">### The more you provide feedback, the better our suggestions will be!</p>
+### The more you provide feedback, the better our suggestions will be!</p>
 
 ![Image](http://image.noelshack.com/fichiers/2018/37/5/1536939780-picture2.jpg) 
 

@@ -1,5 +1,29 @@
 # Welcome to the MoveMe community!
 
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="House.png" style="width:100%">
+  <img class="mySlides" src="Emoji.png" style="width:100%">
+  <img class="mySlides" src="Date.png" style="width:100%">
+</div>
+
+<script>
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {slideIndex = 1} 
+    x[slideIndex-1].style.display = "block"; 
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
 
 ## You are about to move and you want to enjoy a seamless and interactive experience? MoveMe helps you find the most relevant accommodation you are looking for. 
 
@@ -43,36 +67,6 @@
 
 <img src="https://www.zoopla.co.uk/static/images/mashery/powered-by-zoopla-150x73.png" width="150" height="73" title="Property information powered by Zoopla" alt="Property information powered by Zoopla" border="0"> 
 
-<h2 class="w3-center"></h2>
-
-<div class="w3-content w3-display-container">
-  <img class="mySlides" src="House.png" style="width:100%">
-  <img class="mySlides" src="Emoji.png" style="width:100%">
-  <img class="mySlides" src="Date.png" style="width:100%">
-
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
 
 
 

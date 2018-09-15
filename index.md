@@ -1,6 +1,4 @@
 
-## We help you to find your perfect property!
-## HI
 <h2 class="w3-center"></h2>
 
 <div class="w3-content w3-display-container">
